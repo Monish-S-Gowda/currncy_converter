@@ -1,5 +1,5 @@
 # 💱 Currency Converter
-![currency converter](currency converter img.png)
+![currency converter](currency.png)
 ---
 A simple and effective **Command-Line Interface (CLI)** Python tool for converting currencies using real-time exchange rates powered by [ExchangeRate API](https://www.exchangerate-api.com/).
 
